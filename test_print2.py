@@ -1,4 +1,5 @@
-print "pycharm testci 22222222 ....."
-print "hello cloudguarding 22222222222....."
-pass
-pass
+def test_c():
+    print "pycharm testci ....."
+def test_d():
+    print "hello cloudguarding ....."
+
