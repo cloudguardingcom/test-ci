@@ -3,5 +3,6 @@ def test_a():
 def test_b():
     print "hello cloudguarding ....."
 
-pass
+def test_e():
+    pass
 
